@@ -1,0 +1,8 @@
+langchain                    
+langchain-community          
+langchain-core               
+langchain-google-genai       
+langchain-groq
+pypdf
+sentence-transformers
+python-dotenv

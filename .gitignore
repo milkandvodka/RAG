@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.log
+
+# Ignore specific files
+.env
+chat.py
+
+# ChromaDB vector store
+chroma_db/
+
+# Virtual environments
+venv/
+.env/
+
+# IDE folders
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
+Thumbs.db
